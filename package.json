@@ -1,0 +1,22 @@
+{
+  "name": "shopstore",
+  "version": "1.0.0",
+  "description": "ShopStore Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-elattar/ShopStore.git"
+  },
+  "author": "Mahmoud ELattar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-elattar/ShopStore/issues"
+  },
+  "homepage": "https://github.com/m-elattar/ShopStore#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
